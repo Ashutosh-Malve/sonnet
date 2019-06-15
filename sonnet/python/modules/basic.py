@@ -24,7 +24,7 @@ from __future__ import print_function
 import math
 import numbers
 
-# Dependency imports
+# Dependency imports.
 
 import numpy as np
 from six.moves import xrange  # pylint: disable=redefined-builtin
